@@ -1,0 +1,2 @@
+# TestLombok
+基于Eclipse的Lombok、xutils3整合demo，添加了ant的debug和release编译支持
