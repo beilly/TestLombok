@@ -7,4 +7,4 @@ android:
   - extra-android-support
   - extra-android-m2repository
 script:
-- ant build
+- ant release
