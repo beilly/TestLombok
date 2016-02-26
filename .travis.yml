@@ -15,4 +15,4 @@ deploy:
   file: bin/TestLombok.apk
   skip_cleanup: true
   on:
-    tags: true
+    tags: false
