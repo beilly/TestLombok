@@ -11,9 +11,8 @@ script:
 deploy:  
   provider: releases
   api_key:
-    secure: 8110c195720f0098e03617fad7c7f46fa6234e7e
+    secure: c5806a7689c9460ce18f90baa6ee0ddc019b89dd
   file: bin/TestLombok.apk
   skip_cleanup: true
   on:
     tags: false
-    
